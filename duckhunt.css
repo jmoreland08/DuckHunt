@@ -42,3 +42,23 @@ html {
   background-position: center;
   background-image: url(images/shot.png);
 }
+/* @font-face {
+  font-family: "m29_duck_houndregular";
+  src: url("m29-webfont.woff2") format("woff2"),
+    url("m29-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+} */
+
+
+.namebox{
+  background-image: url(images/name.png);
+/* background-size: 20vh; */
+background-repeat: no-repeat;
+height: 250px;
+/* background-position: right; */
+background-position: 800px 60px;
+  
+
+
+}
